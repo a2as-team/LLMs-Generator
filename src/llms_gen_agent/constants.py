@@ -1,0 +1,10 @@
+class StateKeys:
+    ALL_SUMMARIES = "all_summaries"
+    BATCHES = "batches"
+    BATCH_SUMMARIES = "batch_summaries"
+    CURRENT_BATCH = "current_batch"
+    DOC_SUMMARIES = "doc_summaries"
+    FILES = "files"
+    FILES_CONTENT = "files_content"
+    LOOP_ITERATION = "loop_iteration"
+    PROJECT_SUMMARY_RAW = "project_summary_raw"
